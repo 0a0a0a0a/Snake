@@ -13,7 +13,6 @@ import game.Snake;
 import stuff.Consts;
 import sidePanels.*;
 
-@SuppressWarnings("all")
 public class Game extends JFrame {
 
 	public static final Game g = new Game();
